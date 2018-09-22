@@ -21,7 +21,7 @@ The number of clicks in the cat area should be unique to each cat, and should in
 
 
 How to run the Project:
-Clone the repository using git clone https://github.com/stefanosu/
+Clone the repository using git clone https://github.com/stefanosu/catClicker
 
 Open index.html in your browser.
 
